@@ -1,2 +1,2 @@
 # YetGenCorePython
-Bu repo YetGen Core Python çalışmalarım için açılmıştır.
+Bu repoyu YetGen Core Python Programı çalışmalarım için açtım.
